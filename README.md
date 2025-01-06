@@ -1,3 +1,3 @@
 # SecondTryOnGit
 this is my second repository<br>
-AUTHOR ABCD
+AUTHOR ABCD(School Time)
